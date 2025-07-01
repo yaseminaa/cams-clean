@@ -1,0 +1,4 @@
+/web/WEB-INF/credentials/*.json 
+/build/
+/dist/
+*.class
